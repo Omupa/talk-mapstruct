@@ -1,0 +1,4 @@
+mapstruct:
+  defaultComponentModel: spring
+  defaultInjectionStrategy: constructor
+  unmappedTargetPolicy: WARN

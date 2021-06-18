@@ -1,0 +1,7 @@
+mapstruct:
+  defaultComponentModel: spring
+  defaultInjectionStrategy: constructor
+  unmappedTargetPolicy: WARN
+
+spring:
+  output.ansi.enabled: ALWAYS
